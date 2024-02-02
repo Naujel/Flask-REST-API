@@ -5,7 +5,7 @@ from models.entities.user_entitie import User
 import re
 from datetime import datetime
 
-main = Blueprint('food_blueprint', __name__)
+main = Blueprint('user_blueprint', __name__)
 
 @main.route('/')
 def getUsers():
