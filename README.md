@@ -1,13 +1,13 @@
 # REST API con Flask y MySQL
 
 La aplicacion consiste en una REST API que realiza las operaciones básicas de consultas a una base de datos MySQL con el framework de Python Flask.
-
+___
 ## Clone el repositorio de trabajo
 
 ```txt
 git init https://github.com/Naujel/Flask-REST-API.git
 ```
-
+___
 ## Crear entorno virtual
 
 ```txt
